@@ -179,4 +179,15 @@
     }
     }
     
-    
+@media screen and (max-width: 427px) {
+    a.navbar-brand{
+    font-size: 40px;
+    }
+}
+
+@media screen and (max-width: 355px) {
+    a.navbar-brand{
+        font-size: 35px;
+
+    }
+}
